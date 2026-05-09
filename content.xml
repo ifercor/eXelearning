@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260509141445W50VA7</value>
+    <value>20260509142512EFC5UD</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026050914144574GJ9F</value>
+    <value>20260509142512KMT83G</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -40,11 +40,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_license</key>
-    <value>creative commons: attribution - share alike 4.0</value>
+    <value>creative commons: attribution - non commercial 4.0</value>
   </odeProperty>
   <odeProperty>
     <key>pp_licenseUrl</key>
-    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+    <value>https://creativecommons.org/licenses/by-nc/4.0/</value>
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778328461386</value>
+    <value>1778329486640</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -342,12 +342,12 @@
 <odeNavStructure>
   <odePageId>page-moy8wasc-1htske49e</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>El carbono </pageName>
+  <pageName>El carbono</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>El carbono </value>
+      <value>El carbono</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -371,7 +371,7 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>El carbono</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
